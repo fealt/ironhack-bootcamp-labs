@@ -3,16 +3,25 @@
 
 ## *Ironhack Data Analytics Bootcamp*
 
-This repository contains my **solutions** for each **LAB challenge** given during the [bootcamp](https://www.ironhack.com/).
+This repository contains my **solution** for each **LAB challenge** given during the [bootcamp](https://www.ironhack.com/) attendance (2021).
 
 <br>
 <br>
 
-### Some knowledge and tools:
+### Knowledge and tools:
+```
 
-- #### Python
-- #### Statistics
-    * completed in June 2021 *"Data Science Math Skills"* course offered by Duke University (Durham, United States) [@coursera](https://www.coursera.org/learn/datasciencemathskills/home/info)
+▫️ Python
+
+▫️ Pandas
+
+▫️ SQL – PostgreSQL
+
+```
+
+
+### Statistics:
+* completed in June 2021 *"Data Science Math Skills"* course offered by Duke University (Durham, United States) [@coursera](https://www.coursera.org/learn/datasciencemathskills/home/info)
 
 <br>
 <br>
