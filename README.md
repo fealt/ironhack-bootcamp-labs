@@ -17,6 +17,8 @@ This repository contains my **solution** for each **LAB challenge** given during
 
 ▫️ SQL – PostgreSQL
 
+▫️ Statistics
+
 ```
 
 
